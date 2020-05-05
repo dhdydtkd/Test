@@ -1,0 +1,34 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP!qoNn!PzKj^0!q@AA&k8A!d[A1,AAA-A1,Az<aqc,MAdwAA~Ad^A1+AdNC&YAzfACFAAAA+#AdVAz5Azhdd@~1A!BAz^ " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 24995" )
+	call Preload( "Lumber: 40" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 5000" )
+	call Preload( "Exp: 1875246592" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 500" )
+	call Preload( "Int: 17652" )
+	call Preload( "HeroItem1: '|CFFFFDC3C메르세데스 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C메르세데스 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFFFDC3C삼사라 : 윤회하는 시간 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFFFDC3C만물의 평안 : 파동 +20|R →|CFFFFDC3C천상에 오르는 용기 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFFFDC3C만물의 평안 : 파동 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C천공의 유산 - 스태프 +20|R' Charges: 0" )
+	call Preload( "BagItem2: '|CFFFFDC3C천공의 유산 - 창 +16|R' Charges: 0" )
+	call Preload( "Bag2Item1: '|CFFFFDC3C할렘 유니크 카드 20장|R' Charges: 720" )
+	call Preload( "Bag2Item2: '|CFFFFDC3C지능 +1|R' Charges: 704" )
+	call Preload( "Bag3Item2: '|CFFFFDC3C천공의 유산 - 창|R' Charges: 0" )
+	call Preload( "Bag3Item3: '|CFFFFDC3C천공의 유산 - 스태프|R' Charges: 0" )
+	call Preload( "Bag4Item2: '|CFFFFDC3C천공의 유산 - 창|R' Charges: " )
+	call Preload( "Bag4Item3: '|CFFFFDC3C천공의 유산 - 스태프|R' Charges: " )
+	call Preload( "플레이 시간 : 6시 6분 36초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
