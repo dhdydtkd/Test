@@ -1,0 +1,35 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP!qoNn!EVG1@LU~*AAPAa~(x7A@?A%AAc^A1_A!MHE?mhA@?A@/AA~A1*A@/A1rA!tA@TAe~A!tA@TACFAAAAgA!M@~CA!B " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 1000000" )
+	call Preload( "Lumber: 2804" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 4808" )
+	call Preload( "Exp: 1734271872" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 480" )
+	call Preload( "Int: 4861" )
+	call Preload( "HeroItem1: '|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C파르스의 황금잔 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFFFDC3C탐식의 형상 +20|R →|CFFFFDC3C로제타스톤 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "BagItem1: '|CFFFFDC3C할렘 유니크 카드|R' Charges: 13" )
+	call Preload( "BagItem2: '|CFFFFDC3C창성의 구원자 스태프|R' Charges: 0" )
+	call Preload( "BagItem3: '|CFFFFDC3C로제타스톤|R' Charges: 0" )
+	call Preload( "BagItem4: '|CFFFFDC3C로제타스톤|R' Charges: 0" )
+	call Preload( "BagItem5: '|CFFFFDC3C창성의 구원자 창|R' Charges: 0" )
+	call Preload( "BagItem6: '|CFFFFDC3C창성의 구원자 창|R' Charges: 0" )
+	call Preload( "Bag3Item1: '|CFFFFDC3C창성의 구원자 스태프|R' Charges: 0" )
+	call Preload( "Bag4Item1: '|CFFFFDC3C창성의 구원자 스태프|R' Charges: " )
+	call Preload( "플레이 시간 : 2시 29분 37초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

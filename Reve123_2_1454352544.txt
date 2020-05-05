@@ -1,0 +1,28 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP$9i~{!PzKLA1T:jAA%(mA4Z%AALA@!AALAVAAUB)AALAA~AALAAdAALAA}A~EACFAAAAC~ " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 200353" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 69" )
+	call Preload( "Exp: 370295" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 7" )
+	call Preload( "Int: 69" )
+	call Preload( "HeroItem1: '|CFFC71585디파인 다크니스 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFC71585디파인 다크니스 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFC71585디파인 다크니스 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFC71585디파인 다크니스 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFC71585디파인 다크니스 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFDB631F루멘 칼리고 +10|R' Charges: 0" )
+	call Preload( "BagItem1: '|CFFFFDC3C슈퍼스타 링 +6|R' Charges: 0" )
+	call Preload( "BagItem2: '|CFF9400D3지옥파티 도전장|R' Charges: 74" )
+	call Preload( "플레이 시간 : 2시 12분 8초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

@@ -1,0 +1,31 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP!qoNn!PzK*@LJy9AA&zeArO]AC}AA!YACl*j.W/A!tAA~A!tA@-A@ZAl=A@ZACFAAAAtA@UA@!~~A!B " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 250000" )
+	call Preload( "Lumber: 282" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 4010" )
+	call Preload( "Exp: 1206469888" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 400" )
+	call Preload( "Int: 4011" )
+	call Preload( "HeroItem1: '|CFFFFDC3C시간 여행자의 은시계 +20|R →|CFFFFDC3C탐식의 형상 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C구원의 이기 스태프 +18|R →|CFFFFDC3C구원의 이기 스태프 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFFFDC3C구원의 이기 봉 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C양치기 로드 +20|R →|CFFFFDC3C구원의 이기 봉 +20|R' Charges: 0" )
+	call Preload( "Bag3Item1: '|CFFFFDC3C할렘 유니크 카드|R' Charges: 4" )
+	call Preload( "Bag3Item2: '|CFFFFDC3C시간 여행자의 은시계 +20|R' Charges: 0" )
+	call Preload( "Bag4Item1: '|CFFFFDC3C할렘 유니크 카드|R' Charges: " )
+	call Preload( "Bag4Item2: '|CFFFFDC3C시간 여행자의 은시계 +20|R' Charges: " )
+	call Preload( "플레이 시간 : 5시 34분 59초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

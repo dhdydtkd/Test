@@ -1,0 +1,33 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP7Zq?m$cp4L@LuN7AAYt}A@?A17ACl*?8Y>A@?AA~AC}A@pA@ZAUnA@ZACFAAAA0A1wA@UA!tA!M!~~A!B " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 4073" )
+	call Preload( "Exp: 1244849664" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 407" )
+	call Preload( "Int: 4079" )
+	call Preload( "HeroItem1: '|CFFFFDC3C시간 여행자의 은시계 +20|R →|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C구원의 이기 스태프 +18|R →|CFFFFDC3C구원의 이기 스태프 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFFFDC3C탐식의 근원 +20|R →|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFFFDC3C탐식의 근원 +20|R →|CFFFFDC3C탐식의 형상 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFFFDC3C구원의 이기 봉 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C양치기 로드 +20|R →|CFFFFDC3C구원의 이기 봉 +20|R' Charges: 0" )
+	call Preload( "BagItem1: '|CFFFFDC3C로제타스톤 +12|R' Charges: 0" )
+	call Preload( "Bag2Item2: '|CFFFFDC3C파르스의 황금잔 +17|R' Charges: 0" )
+	call Preload( "Bag3Item2: '|CFFFFDC3C시간 여행자의 은시계 +20|R' Charges: 0" )
+	call Preload( "Bag3Item3: '|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "Bag3Item4: '|CFFFFDC3C창성의 구원자 스태프|R' Charges: 0" )
+	call Preload( "Bag4Item2: '|CFFFFDC3C시간 여행자의 은시계 +20|R' Charges: " )
+	call Preload( "Bag4Item3: '|CFFFFDC3C탐식의 근원 +20|R' Charges: " )
+	call Preload( "Bag4Item4: '|CFFFFDC3C창성의 구원자 스태프|R' Charges: " )
+	call Preload( "플레이 시간 : 12시 48분 49초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

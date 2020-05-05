@@ -1,0 +1,29 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP$9i~{P_T-BA1T:jAA$~@AAp+A~zA~;AARAh9LVA@xAA~A~,AABA~zAd^A~zACFAAAAYACzA@~C " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 4280" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 644" )
+	call Preload( "Exp: 31173194" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 64" )
+	call Preload( "Int: 644" )
+	call Preload( "HeroItem1: '|CFFDB631F리버레이션 스태프 +20|R →|CFFDB631F리버레이션 스태프 증폭+20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFDB631F리버레이션 스태프 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFC71585디파인 다크니스 +20|R →|CFFFFDC3C시간 여행자의 은시계 +16|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFC71585디파인 다크니스 +20|R →|CFFFFDC3C양치기 로드 +11|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFC71585디파인 다크니스 +20|R →|CFFDB631F리버레이션 스태프 증폭+20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFDB631F루멘 칼리고 +10|R →|CFFDB631F리버레이션 스태프 증폭+20|R' Charges: 0" )
+	call Preload( "BagItem1: '|CFFFFDC3C양치기 로드 +3|R' Charges: 0" )
+	call Preload( "Bag2Item1: '|CFFFFDC3C샤이닝 인텔리전스 +3|R' Charges: 0" )
+	call Preload( "Bag2Item2: '|CFFFFDC3C슈퍼스타 링 +4|R' Charges: 0" )
+	call Preload( "플레이 시간 : 7시 34분 35초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

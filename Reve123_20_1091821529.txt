@@ -1,0 +1,28 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP$9i~{!PzKS@vQ2aAA$N5A~t7A@UA@{AChACC#<%gMA!tAA~A!tA!#A@ZAr.ACCACFAAAAyC~ACX " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 10000" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 2786" )
+	call Preload( "Exp: 582578752" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 278" )
+	call Preload( "Int: 2786" )
+	call Preload( "HeroItem1: '|CFFFFDC3C시간 여행자의 은시계 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C구원의 이기 스태프 +18|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFDB631F리버레이션 스태프 증폭+20|R →|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: ' →|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFFFDC3C양치기 로드 +20|R →|CFFFFDC3C구원의 이기 봉 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C양치기 로드 +20|R' Charges: 0" )
+	call Preload( "BagItem1: '|CFFFFDC3C구원의 이기 봉 +15|R' Charges: 0" )
+	call Preload( "BagItem2: '|CFFFFDC3C양치기 로드 +20|R' Charges: 0" )
+	call Preload( "플레이 시간 : 2시 33분 59초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

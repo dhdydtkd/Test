@@ -1,0 +1,29 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP!qoNnd0g#S@LU~*AA#NYAAA1A@?A1_4;$=^A@?AA~AC}A1PA!tAqtA!tACFAAAAvA1PA!M@~~A!B " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 5" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 4660" )
+	call Preload( "Exp: 1629408704" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 465" )
+	call Preload( "Int: 4701" )
+	call Preload( "HeroItem1: '|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C구원의 이기 스태프 +20|R →|CFFFFDC3C파르스의 황금잔 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFFFDC3C탐식의 형상 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C탐식의 근원 +20|R' Charges: 0" )
+	call Preload( "Bag2Item1: '|CFFFFDC3C로제타스톤 +17|R' Charges: 0" )
+	call Preload( "Bag3Item1: '|CFFFFDC3C창성의 구원자 스태프|R' Charges: 0" )
+	call Preload( "Bag4Item1: '|CFFFFDC3C창성의 구원자 스태프|R' Charges: " )
+	call Preload( "플레이 시간 : 4시 20분 5초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

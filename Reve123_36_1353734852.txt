@@ -1,0 +1,34 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP!qoNnd0g#T1@p]/AAPe$A~HrA1_ACAAA~A@?A!aqc,MA1KAA~Az^A1+A1,A9yA1fACFAAAAwACBA15AzkddC~A!B " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 10470" )
+	call Preload( "Lumber: 1" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 5000" )
+	call Preload( "Exp: 1875246592" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 500" )
+	call Preload( "Int: 6140" )
+	call Preload( "HeroItem1: '|CFFFFDC3C파르스의 황금잔 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFFFDC3C창성의 구원자 창 +20|R →|CFFFFDC3C메르세데스 +19|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFFFDC3C질투하는 집착의 반지 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFFFDC3C메르세데스 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C창미화의 연 +20|R' Charges: 0" )
+	call Preload( "BagItem1: '|CFFFFDC3C지능 +1|R' Charges: 2" )
+	call Preload( "BagItem2: '|CFFFFDC3C할렘 유니크 카드 20장|R' Charges: 3" )
+	call Preload( "Bag2Item1: '|CFFFFDC3C탐식의 형상 +15|R' Charges: 0" )
+	call Preload( "Bag3Item1: '|CFFFFDC3C메르세데스|R' Charges: 0" )
+	call Preload( "Bag3Item2: '|CFFFFDC3C왜곡의 스페시엄|R' Charges: 0" )
+	call Preload( "Bag4Item1: '|CFFFFDC3C메르세데스|R' Charges: " )
+	call Preload( "Bag4Item2: '|CFFFFDC3C왜곡의 스페시엄|R' Charges: " )
+	call Preload( "플레이 시간 : 1시 25분 57초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

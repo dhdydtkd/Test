@@ -1,0 +1,31 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP!qoNn!PzK*zzq;CAAke5~(x7A1_AAA~A1Kaqc,MA1,AA~Az^A1+A1,ARNA1fACFAAAA6AzLAzkddC~~A!B " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 1000000" )
+	call Preload( "Lumber: 1" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 5000" )
+	call Preload( "Exp: 1875246592" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 500" )
+	call Preload( "Int: 6449" )
+	call Preload( "HeroItem1: '|CFFFFDC3C파르스의 황금잔 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C메르세데스 +19|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFFFDC3C메르세데스 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFFFDC3C질투하는 집착의 반지 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: ' →|CFFFFDC3C메르세데스 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C창미화의 연 +20|R' Charges: 0" )
+	call Preload( "Bag3Item1: '|CFFFFDC3C천공의 유산 - 스태프 +6|R' Charges: 0" )
+	call Preload( "Bag3Item2: '|CFFFFDC3C왜곡의 스페시엄|R' Charges: 0" )
+	call Preload( "Bag4Item1: '|CFFFFDC3C천공의 유산 - 스태프 +6|R' Charges: " )
+	call Preload( "Bag4Item2: '|CFFFFDC3C왜곡의 스페시엄|R' Charges: " )
+	call Preload( "플레이 시간 : 2시 11분 45초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+

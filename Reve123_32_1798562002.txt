@@ -1,0 +1,32 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "----------------- Save Code ------------------" )
+	call Preload( "Code1: AAAAP$9i~{!PzK&1@LP$AA^(q~(x7A@?A1VA1_aqc,MA@?AA~Az^A1+A1fAZsA1,ACFAAAASA1*AzkA15ddC~A!B " )
+	call Preload( "----------------- Data Stats -----------------" )
+	call Preload( "PlayerID : Reve123" )
+	call Preload( "Gold: 1000000" )
+	call Preload( "Char: 검신" )
+	call Preload( "Lv: 5000" )
+	call Preload( "Exp: 1875246592" )
+	call Preload( "Str: 1" )
+	call Preload( "Agi: 500" )
+	call Preload( "Int: 5949" )
+	call Preload( "HeroItem1: '|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem2: '|CFFFFDC3C파르스의 황금잔 +20|R' Charges: 0" )
+	call Preload( "HeroItem3: '|CFFFFDC3C창성의 구원자 창 +20|R' Charges: 0" )
+	call Preload( "HeroItem4: '|CFFFFDC3C로제타스톤 +20|R →|CFFFFDC3C질투하는 집착의 반지 +20|R' Charges: 0" )
+	call Preload( "HeroItem5: '|CFFFFDC3C창성의 구원자 스태프 +20|R →|CFFFFDC3C창미화의 연 +20|R' Charges: 0" )
+	call Preload( "HeroItem6: '|CFFFFDC3C창성의 구원자 스태프 +15|R →|CFFFFDC3C메르세데스 +20|R' Charges: 0" )
+	call Preload( "BagItem1: '|CFFFFDC3C메르세데스 +11|R' Charges: 0" )
+	call Preload( "Bag2Item3: '|CFFFFDC3C로제타스톤 +20|R' Charges: 0" )
+	call Preload( "Bag3Item2: '|CFFFFDC3C왜곡의 스페시엄|R' Charges: 0" )
+	call Preload( "Bag3Item3: '|CFFFFDC3C메르세데스|R' Charges: 0" )
+	call Preload( "Bag4Item2: '|CFFFFDC3C왜곡의 스페시엄|R' Charges: " )
+	call Preload( "Bag4Item3: '|CFFFFDC3C메르세데스|R' Charges: " )
+	call Preload( "플레이 시간 : 17시 54분 44초" )
+	call Preload( "Grabiti's RPG Creator: http://cafe.naver.com/rpgcreator" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
